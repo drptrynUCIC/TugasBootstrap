@@ -1,0 +1,37 @@
+.whatsapp-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: green;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.whatsapp-button:hover {
+  background-color: darkgreen;
+}
+.instagram-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #405DE6;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.instagram-button:hover {
+  background-color: #3f50b5;
+}
+.telegram-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #0088cc;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.telegram-button:hover {
+  background-color: #005580;
+}
+
